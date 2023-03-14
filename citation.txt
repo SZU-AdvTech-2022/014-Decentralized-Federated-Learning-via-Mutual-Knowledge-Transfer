@@ -1,0 +1,9 @@
+@article{REPO-014,
+    author = "Li, Chengxi and Li, Gang and Varshney, Pramod K.",
+    journal = "IEEE Internet of Things Journal",
+    number = "2",
+    pages = "1136-1147",
+    title = "{Decentralized Federated Learning via Mutual Knowledge Transfer}",
+    volume = "9",
+    year = "2022"
+}
